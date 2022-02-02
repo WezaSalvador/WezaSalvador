@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Wez
-- 👀 I’m interested in Tea
+- 👀 I’m interested in Tea, Comics and Animation
 - 🌱 I’m currently learning how to create 2d animations on Blender
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
