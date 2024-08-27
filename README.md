@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Wez
 - 👀 I’m interested in Tea, Comics and Animation
-- 🌱 I’m currently learning how to create 2d animations on Blender
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I'm currently trying not to lose sight of what I want to do
+- 💞️ yeah!
+- 📫 cool...
 
 <!---
 WezaSalvador/WezaSalvador is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
